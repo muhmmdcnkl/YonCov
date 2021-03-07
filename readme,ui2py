@@ -1,0 +1,8 @@
+
+gui 2 py
+pyuic5 gui.ui -o gui.py
+
+
+
+for icons 2 py
+pyrcc5 icons.qrc -o icons_rc.py

@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/Apps-Accessories-Media-Converter-icon.png</file>
+    <file>icons/Actions-edit-clear-icon.png</file>
+    <file>icons/logo.svg</file>
+    <file>icons/My-Pictures-icon.png</file>
+    <file>icons/Actions-go-next-icon.png</file>
+    <file>icons/document-add-icon.png</file>
+    <file>icons/document-arrow-down-icon.png</file>
+  </qresource>
+</RCC>
